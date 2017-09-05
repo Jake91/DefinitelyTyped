@@ -23,6 +23,7 @@
         "modules/exporting.d.ts",
         "modules/no-data-to-display.d.ts",
         "modules/offline-exporting.d.ts",
+        "modules/solid-gauge.d.ts",
         "highcharts-more.d.ts",
         "highstock.d.ts",
         "test/boost.ts",
